@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iNxtWilliqm AKA WillDev
 - 👀 I’m interested in python, json, html and php
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on a pocketmine server - ZeroLands
+- 🌱 I’m currently working with php
+- 💞️ Founder and Developer of ZeroLands
 - 📫 How to reach me - Discord: iNxtWilliqm#0001
 
 <!---

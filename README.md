@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iNxtWilliqm AKA WillDev
 - 👀 I’m interested in python, json, html and php
-- 💞️ Founder and Developer of ZeroLands
+- 💞️ Founder and Developer of Prixor
 - 📫 How to reach me - Discord: iNxtWilliqm#8160
 
 <!---

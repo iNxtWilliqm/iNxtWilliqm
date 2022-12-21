@@ -1,6 +1,6 @@
 ## iNxtWilliqm
 - 👨‍💻 AKA WillDev
-- 👀 html, css, js, python, json, php
+- 👀 I know some html, css, js, python, json, php
 - 💞️ Self-taught programmer
 
 ## Discord
